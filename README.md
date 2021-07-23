@@ -52,7 +52,6 @@ Thank you Everyone for helping to develop this one🦋
 </p>
 
 ```
-Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
 
 
 
