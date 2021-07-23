@@ -8,8 +8,8 @@ Thank you Everyone for helping to develop this one🦋
 ## Thanks for Everything 
 ### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
+- [Black Hydra D.C.W](https://www.youtube.com/channel/UCt2wEGBQkjqCNhhRObiVVgA)
+
 
 <p align="center">
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
@@ -102,7 +102,7 @@ Click WA logo to Join Support Group 👇
 ** RIYA_MWOL,** is a WhatsApp helper bot MODDED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS) and MANAGED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS).It Does not log into your account. It is written on WhatsApp Web API.
 
   
-  ##subscribe our channel here https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA?sub_conformation=1
+ [CLICK HERE TO SUBSCRIBE OUR CHANNEL](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA)
   
   
   
@@ -201,8 +201,9 @@ By establishing the RIYA_MWOL, you are deemed to have accepted these responsibil
 Prime,
 Farhan,
 Arjun,
-Nithin,](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
-
+Nithin,
+Ultron,
+And All Our Supporters](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
 
 
 
@@ -211,3 +212,15 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
+  
+  
+  
+  
+  
+  
+  Project created by <a href="https://github.com/ADHIPAN-MODS">ADHIPAN</a> to make it public
+
+| © | Reserved |
+
+  
