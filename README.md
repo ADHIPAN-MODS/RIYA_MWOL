@@ -37,16 +37,16 @@ Thank you Everyone for helping to develop this one🦋
     <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="https://github.com/ADHIPAN-MODS/RIYA_MWOL">
     <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
+  <a href="https://github.com/ADHIPAN-MODS">
+    <img src="https://img.shields.io/static/v1?label=Author&message=ADHIPAN_MODS&color=purple&style=plastic">
 
   </a>
-  <a href="https://t.me/asenaremaster">
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
+  <a href="https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb">
+    <img src="https://img.shields.io/badge/WhatsApp- Group Link-purple&style=plastic">
 
   </a>
 </p>
@@ -71,11 +71,11 @@ the user is responsible.
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg" width="200" height="200">
+  <img src="https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg" width="500" height="500">
   <h1>RIYA_MWOL</h1>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp.
+    RIYA_MWOL User bot - Makes it easy and fun to use Whatsapp.
     <br>
        | <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA"> CLICK HERE TO SUBSCRIBE OUR CHANNEL FOR MORE UPDATES</a> |
 
@@ -213,7 +213,7 @@ By establishing the RIYA_MWOL, you are deemed to have accepted these responsibil
 [Pablo,
 Prime,
 Farhan,
-Arjun,
+Arjun Vinod,
 Nithin,
 Ultron,
 And All Our Supporters](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
