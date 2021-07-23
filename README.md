@@ -77,7 +77,7 @@ the user is responsible.
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp.
     <br>
-        <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA"> SUBSCRIBE OURCHANNEL FOR MORE UPDATESYOUTUBE Channel</a> |
+       | <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA"> CLICK HERE TO SUBSCRIBE OUR CHANNEL FOR MORE UPDATES</a> |
         
     <br>
 </p>
@@ -99,8 +99,15 @@ Click WA logo to Join Support Group 👇
 
 
 ## 🔎 What is RIYA_MWOL USER BOT ?
-**WhatsAsena,** is a WhatsApp helper bot MODDED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS) and MANAGED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS). Does not log into your account It is written on WhatsApp Web API.
+** RIYA_MWOL,** is a WhatsApp helper bot MODDED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS) and MANAGED by [ADHIPAN MODS](https://github.com/ADHIPAN-MODS).It Does not log into your account. It is written on WhatsApp Web API.
 
+  
+  ##subscribe our channel here https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA?sub_conformation=1
+  
+  
+  
+  
+  
 ## Setup
 ### Very Simple Method
 `Soon as Possible...`
