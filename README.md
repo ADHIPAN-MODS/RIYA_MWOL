@@ -1,7 +1,5 @@
-## Its_Me_Amal🥰
-
-<img src=https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg>
-
+## IT'S_ME_ADHIPAN
+![20210613_095153](https://avatars.githubusercontent.com/u/87354198?s=400&u=76e1a215b5abc335cdffe21bd8f39d45786ec6b4&v=4) 
 
 Thank you Everyone for helping to develop this one🦋
 Join Whatsapp Group 
