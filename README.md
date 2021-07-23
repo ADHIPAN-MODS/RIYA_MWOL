@@ -12,15 +12,10 @@ Thank you Everyone for helping to develop this one🦋
 
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
-    <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
-    
+  <p align="center">
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/commits/master">
-    <img src="https://img.shields.io/github/commit-activity/m/phaticusthiccy/WhatsAsenaDuplicated?style=social">
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
+</p>
   </a>
 </p>
 
@@ -227,8 +222,16 @@ This project is protected by `GNU General Public Licence v3.0` license.
 `WhatsApp, YOUTUBE` name, its variations and the logo are registered trademarks of Facebook And Google. We have nothing to do with the registered trademark
 
 
+  ### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, ADHIPAN-MODS do not accept responsibility.
+By establishing the Userbot, you are deemed to have accepted these responsibilities.
+```
   
-  
+    
+    
   
   
   
