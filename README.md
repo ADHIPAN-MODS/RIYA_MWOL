@@ -66,7 +66,7 @@ the user is responsible.
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg" width="500" height="500">
+  <img src="https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg" width="200" height="200">
   <h1>RIYA_MWOL</h1>
 </div>
 <p align="center">
@@ -86,7 +86,7 @@ the user is responsible.
 
 
 <div align="center">     
- <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" alt=" ADHIPAN-MODS " height="400" width="500" /></a>
+ <a href="https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" alt=" ADHIPAN-MODS " height="200" width="300" /></a>
    
 
 
