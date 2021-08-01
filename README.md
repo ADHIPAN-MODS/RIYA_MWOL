@@ -154,7 +154,7 @@ If you are concerned about security, you can install it on your own computer. If
 **Of course not.** It will never happen. But you can donate to us. You can reach us via [YOUTUBE](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) .Or [WHATSAPP](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
 
 ### What does RIYA_MWOL mean?
-Its is a project made by ADHIPAN for his friend pablo.
+Its is a project made by ADHIPAN for his friend Pablo.
 
 ##
 
@@ -162,7 +162,7 @@ Its is a project made by ADHIPAN for his friend pablo.
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, ADHIPAN-MODS  executives do not accept responsibility.
+Absolutely, ADHIPAN-MODS do not accept responsibility.
 By establishing the RIYA_MWOL, you are deemed to have accepted these responsibilities.
 ```
 ##  WhatsAsena Features
