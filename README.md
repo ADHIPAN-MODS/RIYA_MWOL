@@ -40,7 +40,7 @@ Thank you Everyone for helping to develop this one🦋
     <img src="https://img.shields.io/static/v1?label=Author&message=ADHIPAN_MODS&color=purple&style=plastic">
 
   </a>
-  <a href="https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb">
+  <a href="https://chat.whatsapp.com/HvIOluxZFy88tMuCV3yIfY">
     <img src="https://img.shields.io/badge/WhatsApp- Group Link-purple&style=plastic">
 
   </a>
@@ -97,7 +97,7 @@ the user is responsible.
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HvIOluxZFy88tMuCV3yIfY)
   <div align="center">
 
 
@@ -151,7 +151,7 @@ This project is open source so all the codes are clear. Neither less nor more; y
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
 ### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach us via [YOUTUBE](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) .Or [WHATSAPP](https://chat.whatsapp.com/F0qVKotY0tq2pZ1tQ01PQb)
+**Of course not.** It will never happen. But you can donate to us. You can reach us via [YOUTUBE](https://www.youtube.com/channel/UCC_WKMTl43ewmNdwpNxj6tA) .Or [WHATSAPP](https://chat.whatsapp.com/HvIOluxZFy88tMuCV3yIfY)
 
 ### What does RIYA_MWOL mean?
 Its is a project made by ADHIPAN for his friend Pablo.
